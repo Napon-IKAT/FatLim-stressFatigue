@@ -1,3 +1,7 @@
+Napon Opasanon, Leon Josef Stahr, Lukas Suchy and Alexander Hasse.
+Professorship of Machine Elements and Product Development, Technische Universität Chemnitz, Germany.
+
+
 The augmented dataset was created based on the Fatlim dataset (Papuga et al., 2022).
 The original dataset is available at the following link: https://www.pragtic.com/fatlim.php
 The corresponding publication can be found here: https://doi.org/10.3390/met12020289
